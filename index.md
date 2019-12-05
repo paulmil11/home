@@ -2,4 +2,4 @@
 
 I'm Paul Millerd, a curious human, solopreneur and nomad.  
 
-logo: [logo.jpg]
+logo: logo.jpg
